@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v2.8.4, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v2.8.4, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/mobirise/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise-slider/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="engine"><a rel="nofollow" href="https://mobirise.com">Mobirise best web design software for mac</a></section>
+<section class="mbr-slider mbr-section mbr-section--no-padding carousel slide" data-ride="carousel" data-wrap="true" data-interval="10000" id="slider-0" style="background-color: rgb(255, 255, 255);">
+    <div class="mbr-section__container">
+        <div>
+            <ol class="carousel-indicators">
+                <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="1"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height active" style="background-image: url(assets/images/renewable1-1160x402-64.png);">
+                    <div class="mbr-box__magnet mbr-box__magnet--sm-padding">
+                        <div class=" container">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    <h1 class="mbr-hero__text"><span style="font-weight: normal;">Location: 13th Floor Server room</span></h1>
+                                    <p class="mbr-hero__subtext">Temperature: <?php echo "aa";?></p>
+                                </div>
+                                
+                            </div></div>
+                        </div>
+                    </div>
+                </div><div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height" style="background-image: url(assets/images/iot2-1380x631-81.png);">
+                    <div class="mbr-box__magnet mbr-box__magnet--sm-padding">
+                        <div class=" container">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    <h1 class="mbr-hero__text">Slide 2</h1>
+                                    <p class="mbr-hero__subtext">Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.</p>
+                                </div>
+                                
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider-0">
+                <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="#slider-0">
+                <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background" id="features1-2" style="background-image: url(assets/images/bg3.jpg);">
+    
+    
+    <div class="mbr-section__container container mbr-section__container--std-top-padding">
+        <div class="mbr-section__row row">
+            <div class="mbr-section__col col-xs-12 col-sm-6">
+                <div class="mbr-section__container mbr-section__container--center mbr-section__container--middle">
+                    <figure class="mbr-figure"><img class="mbr-figure__img" src="assets/images/eecu-225x224-58.jpg"></figure>
+                </div>
+                
+                
+                <div class="mbr-section__container mbr-section__container--last">
+                    <div class="mbr-buttons mbr-buttons--center"><a href="http://www.ee.eng.chula.ac.th/" class="mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default" target="_blank">Electrical engineering<br>Chulalongkorn University</a></div>
+                </div>
+            </div>
+            <div class="mbr-section__col col-xs-12 col-sm-6">
+                <div class="mbr-section__container mbr-section__container--center mbr-section__container--middle">
+                    <figure class="mbr-figure"><img class="mbr-figure__img" src="assets/images/fraunhofer-5000x1226-62.jpg"></figure>
+                </div>
+                
+                
+                <div class="mbr-section__container mbr-section__container--last">
+                    <div class="mbr-buttons mbr-buttons--center"><a href="http://www.fraunhofer.de/en.html" class="mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default" target="_blank">Fraunhofer</a></div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/mobirise/js/script.js"></script>
+  
+  
+</body>
+</html>
