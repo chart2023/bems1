@@ -68,7 +68,7 @@ $url = "http://161.200.90.122/axis2/services/FIAPStorage";
             if($data === false){
                 $error = curl_error($ch);
                 echo $error;
-                die('error occured');
+                die('error occurred');
             }else{
 				$xml = simplexml_load_string($data);
 				$ns = $xml->getNamespaces(true);

@@ -270,7 +270,7 @@
     }
 
     // it will remove some image overlapping
-    // overlapping occur due to an image position fixed inside absolute possition element (webkit based browsers works without any fix)
+    // overlapping occur due to an image position fixed inside absolute position element (webkit based browsers works without any fix)
     Jarallax.prototype.clipContainer = function() {
         var _this  = this,
             width  = _this.image.$container.outerWidth(true),
